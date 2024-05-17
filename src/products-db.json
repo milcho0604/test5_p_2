@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "우유",
+      "price": 1000,
+      "quantity": 5,
+      "category": "음료수",
+      "done": false
+    },
+    {
+      "id": 2,
+      "title": "조리퐁",
+      "price": 2000,
+      "quantity": 2,
+      "category": "과자",
+      "done": false
+    },
+    {
+      "id": 3,
+      "title": "까까",
+      "price": 3000,
+      "category": "음료수",
+      "quantity": 3
+    },
+    {
+      "id": 4,
+      "title": "사이다",
+      "price": 2000,
+      "category": "음료수",
+      "quantity": 4
+    }
+  ]
+}
